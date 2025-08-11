@@ -13,12 +13,8 @@
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 
-### 📊 Stats
-
-![Silky Git Hub Stats](https://github-readme-stats.vercel.app/api?username=Silky-X2&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Silky-X2&theme=gruvbox&border_radius=4.5) -->
-
+### Importent People
+- 🐐 [@TimLohrer](https://github.com/TimLohrer) He inspired me to Start Coding <3
 
 
 
