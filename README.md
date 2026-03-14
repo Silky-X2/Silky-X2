@@ -1,11 +1,11 @@
 ## 💻 Hi i am Silky 
 
-- ⚔️ Helper [@NoRiskClient](https://github.com/NoRiskClient/)
+- ⚔️ Ex-Helper [@NoRiskClient](https://github.com/NoRiskClient/)
 - 🌱 I’m curently learning: **JavaScript, Python, Java**
 - 🪴 I want to learn: Kotlin
 
 ### Contact Me
-- 🔵 Discord **@craftingnik**
+- 🔵 Discord **@silkytv**
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=idea,pycharm,vscode,gradle,discord)](https://skillicons.dev)
