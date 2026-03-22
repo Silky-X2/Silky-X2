@@ -6,7 +6,7 @@
 - 🪴 I want to learn: Kotlin
 
 ### Contact Me
-- 🔵 Discord **@silkytv**
+- 🔵 Discord **@silkycode**
 
 ### Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=apple,windows,kali)](https://skillicons.dev)
