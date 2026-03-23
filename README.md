@@ -1,4 +1,4 @@
-## 💻 Hi i am Silky 
+## Hi i am Silky 
 
 - ⚔️ Ex-Helper [@NoRiskClient](https://github.com/NoRiskClient/)
 - 💻 Discord Mod & Dev [@NurNemo](https://www.twitch.tv/nurnemo_), [@LetsMaxeyTV](https://www.twitch.tv/maxeytv_)
