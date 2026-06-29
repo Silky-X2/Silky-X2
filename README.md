@@ -9,16 +9,16 @@
 - 🔵 Discord **@silkycode**
 
 ### Operating Systems
-[![Operating Systems](https://skillicons.dev/icons?i=apple,windows,kali)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=apple,windows,kali&perline=5)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=idea,pycharm,vscode,gradle,github,discord,powershell,git,mysql,netlify,npm,nodejs,openshift,sqlite,vercel)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=idea,pycharm,vscode,gradle,github,discord,powershell,git,mysql,netlify,npm,nodejs,openshift,sqlite,vercel&perline=5)](https://skillicons.dev)
 
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,&perline=5)](https://skillicons.dev)
 
 ### Importent People
-- 🐐 [@TimLohrer](https://github.com/TimLohrer) He inspired me to Start Coding <3
+- 🐐 [@TimLohrer](https://github.com/TimLohrer&perline=5) He inspired me to Start Coding <3
 
 
 
