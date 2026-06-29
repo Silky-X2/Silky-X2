@@ -12,7 +12,7 @@
 [![Operating Systems](https://skillicons.dev/icons?i=apple,windows,kali)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=idea,pycharm,vscode,gradle,github,discord,powershell,git,mysql,netlify,npm,nodejs,openshift,sqlite)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=idea,pycharm,vscode,gradle,github,discord,powershell,git,mysql,netlify,npm,nodejs,openshift,sqlite,vercel)](https://skillicons.dev)
 
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,)](https://skillicons.dev)
