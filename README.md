@@ -18,7 +18,9 @@
 [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,&perline=7)](https://skillicons.dev)
 
 ### Stats
-https://github-stats-extended.vercel.app/api?username=Silky-X2&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Silky-X2&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Silky-X2&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Silky-X2&layout=compact&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=Silky-X2&layout=compact&langs_count=4&theme=ambient_gradient)
 
 ### Importent People
 - 🐐 [@TimLohrer](https://github.com/TimLohrer&perline=5) He inspired me to Start Coding <3
