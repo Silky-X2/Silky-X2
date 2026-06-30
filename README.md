@@ -17,6 +17,9 @@
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,&perline=7)](https://skillicons.dev)
 
+### Stats
+[![Silky's GitHub stats](https://github-stats-extended.vercel.app/api?username=Silky-X2)](https://github.com/stats-organization/github-stats-extended)
+
 ### Importent People
 - 🐐 [@TimLohrer](https://github.com/TimLohrer&perline=5) He inspired me to Start Coding <3
 
